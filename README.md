@@ -1,5 +1,5 @@
-# microdose-cli
-Command Line Interface for the microdosing the web **PLACEHOLDER**
+# microdose-cli **PLACEHOLDER**
+Command Line Interface for the microdosing the web
 
 ## Install
 ```
