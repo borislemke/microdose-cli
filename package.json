@@ -1,0 +1,39 @@
+{
+  "name": "@microdose/cli",
+  "version": "0.1.0",
+  "description": "Command Line Interface for the microdose framework",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borislemke/microdose-cli.git"
+  },
+  "keywords": [
+    "microdose",
+    "framework",
+    "microservice"
+  ],
+  "author": "Boris Lemke <boris@fleava.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/borislemke/microdose-cli/issues"
+  },
+  "homepage": "https://github.com/borislemke/microdose-cli#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "inquirer": "^3.0.6",
+    "rimraf": "^2.6.1",
+    "shelljs": "^0.7.7"
+  },
+  "devDependencies": {
+    "@types/commander": "^2.9.0",
+    "@types/inquirer": "0.0.34",
+    "@types/node": "^7.0.22",
+    "@types/rimraf": "0.0.28",
+    "@types/shelljs": "^0.7.1",
+    "concurrently": "^3.4.0",
+    "typescript": "^2.3.3"
+  }
+}
